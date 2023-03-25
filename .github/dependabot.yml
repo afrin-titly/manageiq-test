@@ -8,6 +8,9 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+      time: "21:07"
+      # Use Japan Standard Time (UTC +09:00)
+      timezone: "Asia/Tokyo"
     commit-message:
       # Prefix all commit messages with "npm: "
       prefix: "Bundler"
