@@ -297,5 +297,5 @@ end
 
 group :development, :test do
   gem "routes_lazy_routes"
-  gem "rspec-rails",                    "~>4.0.1"
+  gem "rspec-rails",                    "~>6.0.2"
 end
